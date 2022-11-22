@@ -310,5 +310,6 @@ $RECYCLE.BIN/
 *.parquet
 
 storage/
+datasets/
 
 *.txt
